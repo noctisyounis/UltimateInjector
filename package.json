@@ -1,0 +1,10 @@
+{
+	"name": "com.transmedia.ultimateinjector",
+	"displayName":"Ultimate Injector",
+	"version": "1.0.0",
+    "unity": "2020.3",
+    "keywords": ["Scriptable", "Object", "Injector"],
+    "category": "Tools",
+	"description": "This tool helps you link a ScriptableObject's value to another component value.",
+    "dependencies": {}
+}
